@@ -10,11 +10,74 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.5355272999252058,
+                    "y": 0.1986970684039088,
+                    "uniqueID": 341946,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Intersection",
+                    "name": "Intersection",
+                    "x": 0.43156320119670905,
+                    "y": 0.4723127035830619,
+                    "uniqueID": 968331,
+                    "ioValues": [
+                        {
+                            "name": "geometry1",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "geometry2",
+                            "ioValue": ""
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9850411368735975,
-                    "y": 0.5,
+                    "x": 0.4323111443530292,
+                    "y": 0.482084690553746,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Svg",
+                    "name": "Svg",
+                    "x": 0.606581899775617,
+                    "y": 0.498371335504886,
+                    "uniqueID": 655176,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 0.5056095736724009,
+                    "y": 0.6840390879478828,
+                    "uniqueID": 492826,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 15
+                        }
+                    ]
                 }
             ],
             "allConnectors": [],
